@@ -27,23 +27,24 @@ The dataset used in this project is the "Telco Customer Churn" dataset from IBM.
 - Total Charges
 - Churn (Target Variable)
 
+## Data Visualization
+# Homepage
+![Homepage](img/homepage.png)
 
-## Overview
-This Power BI project provides data visualization and insights into the IBM Telco Customer Churn dataset. The dataset contains information about telecommunications customers, their demographics, services they subscribe to, contract details, and whether they have churned or not. By leveraging Power BI, this project aims to visually explore the data and extract valuable business insights.
-
+# Overview
 ![Overview](img/overview.png)
 
-## Churn Analysis
+# Services Analysis
+Explore the different subscription services and their impact on customer churn.
+
+![Services Analysis](img/service.png)
+
+# Churn Analysis
 In this section, we delve into the churn rate analysis, customer demographics, and various factors influencing customer churn.
 
 ![Churn Analysis](img/churn.png)
 
-## Services Analysis
-Explore the different subscription services and their impact on customer churn.
-
-![Services Analysis](img/services.png)
-
-## Insights
+# Insights
 This section provides key insights and observations from the data visualizations, helping you understand customer behavior and churn patterns.
 
 ![Insights](img/insights.png)
