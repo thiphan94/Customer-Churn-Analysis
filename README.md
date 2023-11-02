@@ -28,23 +28,23 @@ The dataset used in this project is the "Telco Customer Churn" dataset from IBM.
 - Churn (Target Variable)
 
 ## Data Visualization
-# Homepage
+### Homepage
 ![Homepage](img/homepage.png)
 
-# Overview
+### Overview
 ![Overview](img/overview.png)
 
-# Services Analysis
+### Services Analysis
 Explore the different subscription services and their impact on customer churn.
 
 ![Services Analysis](img/service.png)
 
-# Churn Analysis
+### Churn Analysis
 In this section, we delve into the churn rate analysis, customer demographics, and various factors influencing customer churn.
 
 ![Churn Analysis](img/churn.png)
 
-# Insights
+### Insights
 This section provides key insights and observations from the data visualizations, helping you understand customer behavior and churn patterns.
 
 ![Insights](img/insights.png)
